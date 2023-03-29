@@ -1,0 +1,5 @@
+Flask
+flask-restx
+japanize_matplotlib
+matplotlib
+numpy
